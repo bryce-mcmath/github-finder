@@ -1,6 +1,6 @@
 # Github Finder
 
-This is a small React app that interacts with the github API. It was created to help familiarize myself with React, class-based components, functional components, lifecycle methods, prop-types, react-router-dom, hooks, and the Context API.
+This is a small React app that interacts with the github API. It was created to help familiarize myself with React, class components, function components, lifecycle methods, prop-types, react-router-dom, hooks, and the Context API.
 
 ## Available Scripts
 
